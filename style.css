@@ -1,0 +1,9 @@
+textarea, input, button, select { font-family: inherit; font-size: inherit; }
+
+textarea {
+  width: 90%;
+  height: 300px;
+  margin: auto;
+  font-size:14px;
+  font-family: Sans-Serif
+}
